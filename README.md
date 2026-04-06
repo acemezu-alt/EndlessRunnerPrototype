@@ -45,12 +45,3 @@ This prototype utilizes Unreal Engine 5 features, including:
 2. Open the project in Unreal Engine 5
 3. Open the main level
 4. Click "Play" to start the prototype
-
-## Video Demonstration
-(Insert your Loom or video link here)
-
-## Project Link
-(Insert your GitHub repository link here)
-
-## Reflection
-This prototype demonstrates how a simple gameplay mechanic can impact player experience. The hazard and respawn system creates tension and encourages careful movement. Using Unreal Engine 5 Blueprints allowed for rapid prototyping and iteration, making it easier to test and refine gameplay interactions. While the prototype is simple, it effectively showcases how core mechanics form the foundation of engaging gameplay systems.
